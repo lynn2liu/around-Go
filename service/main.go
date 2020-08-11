@@ -18,7 +18,7 @@ const (
     // Needs to update
     //PROJECT_ID = "around-xxx"
     //BT_INSTANCE = "around-post"
-    ES_URL = "http://35.188.222.168:9200"
+    ES_URL = "http://35.192.27.36:9200/"
 
 )
 
